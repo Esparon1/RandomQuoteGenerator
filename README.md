@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-A simple React application that displays a random quote each time you reload the page or press the button
+Simple React application that displays a random quote each time you reload the page or press the button
 
 
 ## Technologies Used
@@ -9,3 +9,6 @@ A simple React application that displays a random quote each time you reload the
 - Axios (for HTTP requests)
 - JavaScript (ES6)
 - CSS
+
+# Live 
+https://guileless-halva-8e9754.netlify.app
